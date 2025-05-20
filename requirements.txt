@@ -1,0 +1,6 @@
+fastai==2.7.19
+torch==2.6.0
+torchvision==0.21.0
+gradio==5.30.0
+pillow==11.2.1
+numpy==2.0.2
